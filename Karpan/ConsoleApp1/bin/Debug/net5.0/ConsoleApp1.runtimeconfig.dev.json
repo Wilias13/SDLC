@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zheny\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zheny\\.nuget\\packages"
+    ]
+  }
+}

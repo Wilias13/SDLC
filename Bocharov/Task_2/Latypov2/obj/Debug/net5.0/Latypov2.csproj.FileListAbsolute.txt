@@ -1,0 +1,15 @@
+/Users/antonbocharov/Projects/Latypov2/Latypov2/bin/Debug/net5.0/Latypov2.deps.json
+/Users/antonbocharov/Projects/Latypov2/Latypov2/bin/Debug/net5.0/Latypov2.runtimeconfig.json
+/Users/antonbocharov/Projects/Latypov2/Latypov2/bin/Debug/net5.0/Latypov2.runtimeconfig.dev.json
+/Users/antonbocharov/Projects/Latypov2/Latypov2/bin/Debug/net5.0/Latypov2.dll
+/Users/antonbocharov/Projects/Latypov2/Latypov2/bin/Debug/net5.0/ref/Latypov2.dll
+/Users/antonbocharov/Projects/Latypov2/Latypov2/bin/Debug/net5.0/Latypov2.pdb
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.csproj.AssemblyReference.cache
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.AssemblyInfoInputs.cache
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.AssemblyInfo.cs
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.csproj.CoreCompileInputs.cache
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.dll
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/ref/Latypov2.dll
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.pdb
+/Users/antonbocharov/Projects/Latypov2/Latypov2/obj/Debug/net5.0/Latypov2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\OS_Lab_2.exe
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\OS_Lab_2.deps.json
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\OS_Lab_2.runtimeconfig.json
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\OS_Lab_2.runtimeconfig.dev.json
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\OS_Lab_2.dll
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\ref\OS_Lab_2.dll
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\bin\Debug\net5.0\OS_Lab_2.pdb
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.csproj.AssemblyReference.cache
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.AssemblyInfoInputs.cache
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.AssemblyInfo.cs
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.dll
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\ref\OS_Lab_2.dll
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.pdb
+C:\Users\austinov\RiderProjects\OS_Lab_2\OS_Lab_2\obj\Debug\net5.0\OS_Lab_2.genruntimeconfig.cache
