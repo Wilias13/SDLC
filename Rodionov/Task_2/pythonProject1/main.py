@@ -5,7 +5,7 @@ filename = '1.txt'
 success_message = 'Welcome to the password protected area admin'
 txt = open(filename)
 url = 'http://dvwa.local/vulnerabilities/brute/index.php'
-#куки копировать из режима разработчика после входа
+# куки копировать из режима разработчика после входа
 cookie = {'security': 'high', 'PHPSESSID': 'i1ev773hnbce7q0ekoraps4hq7'}
 s = requests.Session()
 target_page = s.get(url, cookies=cookie)
